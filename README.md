@@ -1,6 +1,6 @@
 ### Hi there! This is Arindam Kalita 👋
 
-[![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=akalita-mms)](https://github.com/akalita-mms/github-readme-stats)
+[![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=akalita-mms)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
